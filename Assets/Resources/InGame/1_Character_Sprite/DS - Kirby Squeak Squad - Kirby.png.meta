@@ -1,0 +1,6056 @@
+fileFormatVersion: 2
+guid: fe57f25e7406a834c830ca5263045fce
+timeCreated: 1460771431
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Idle
+    21300002: Down
+    21300004: DS - Kirby Squeak Squad - Kirby_2
+    21300006: DS - Kirby Squeak Squad - Kirby_3
+    21300008: DS - Kirby Squeak Squad - Kirby_4
+    21300010: DS - Kirby Squeak Squad - Kirby_5
+    21300012: DS - Kirby Squeak Squad - Kirby_6
+    21300014: DS - Kirby Squeak Squad - Kirby_7
+    21300016: DS - Kirby Squeak Squad - Kirby_8
+    21300018: DS - Kirby Squeak Squad - Kirby_9
+    21300020: walk_1
+    21300022: walk_2
+    21300024: walk_3
+    21300026: walk_4
+    21300028: walk_5
+    21300030: walk_6
+    21300032: walk_7
+    21300034: walk_8
+    21300036: walk_9
+    21300038: walk_10
+    21300040: DS - Kirby Squeak Squad - Kirby_20
+    21300042: DS - Kirby Squeak Squad - Kirby_21
+    21300044: DS - Kirby Squeak Squad - Kirby_22
+    21300046: DS - Kirby Squeak Squad - Kirby_23
+    21300048: DS - Kirby Squeak Squad - Kirby_24
+    21300050: DS - Kirby Squeak Squad - Kirby_25
+    21300052: DS - Kirby Squeak Squad - Kirby_26
+    21300054: DS - Kirby Squeak Squad - Kirby_27
+    21300056: DS - Kirby Squeak Squad - Kirby_28
+    21300058: DS - Kirby Squeak Squad - Kirby_29
+    21300060: DS - Kirby Squeak Squad - Kirby_30
+    21300062: DS - Kirby Squeak Squad - Kirby_31
+    21300064: DS - Kirby Squeak Squad - Kirby_32
+    21300066: DS - Kirby Squeak Squad - Kirby_33
+    21300068: DS - Kirby Squeak Squad - Kirby_34
+    21300070: DS - Kirby Squeak Squad - Kirby_35
+    21300072: DS - Kirby Squeak Squad - Kirby_36
+    21300074: DS - Kirby Squeak Squad - Kirby_37
+    21300076: DS - Kirby Squeak Squad - Kirby_38
+    21300078: DS - Kirby Squeak Squad - Kirby_39
+    21300080: DS - Kirby Squeak Squad - Kirby_40
+    21300082: DS - Kirby Squeak Squad - Kirby_41
+    21300084: DS - Kirby Squeak Squad - Kirby_42
+    21300086: DS - Kirby Squeak Squad - Kirby_43
+    21300088: DS - Kirby Squeak Squad - Kirby_44
+    21300090: DS - Kirby Squeak Squad - Kirby_45
+    21300092: DS - Kirby Squeak Squad - Kirby_46
+    21300094: DS - Kirby Squeak Squad - Kirby_47
+    21300096: DS - Kirby Squeak Squad - Kirby_48
+    21300098: DS - Kirby Squeak Squad - Kirby_49
+    21300100: DS - Kirby Squeak Squad - Kirby_50
+    21300102: DS - Kirby Squeak Squad - Kirby_51
+    21300104: DS - Kirby Squeak Squad - Kirby_52
+    21300106: DS - Kirby Squeak Squad - Kirby_53
+    21300108: DS - Kirby Squeak Squad - Kirby_54
+    21300110: DS - Kirby Squeak Squad - Kirby_55
+    21300112: DS - Kirby Squeak Squad - Kirby_56
+    21300114: DS - Kirby Squeak Squad - Kirby_57
+    21300116: DS - Kirby Squeak Squad - Kirby_58
+    21300118: DS - Kirby Squeak Squad - Kirby_59
+    21300120: DS - Kirby Squeak Squad - Kirby_60
+    21300122: DS - Kirby Squeak Squad - Kirby_61
+    21300124: DS - Kirby Squeak Squad - Kirby_62
+    21300126: DS - Kirby Squeak Squad - Kirby_63
+    21300128: DS - Kirby Squeak Squad - Kirby_64
+    21300130: DS - Kirby Squeak Squad - Kirby_65
+    21300132: DS - Kirby Squeak Squad - Kirby_66
+    21300134: DS - Kirby Squeak Squad - Kirby_67
+    21300136: DS - Kirby Squeak Squad - Kirby_68
+    21300138: DS - Kirby Squeak Squad - Kirby_69
+    21300140: DS - Kirby Squeak Squad - Kirby_70
+    21300142: DS - Kirby Squeak Squad - Kirby_71
+    21300144: DS - Kirby Squeak Squad - Kirby_72
+    21300146: DS - Kirby Squeak Squad - Kirby_73
+    21300148: DS - Kirby Squeak Squad - Kirby_74
+    21300150: DS - Kirby Squeak Squad - Kirby_75
+    21300152: DS - Kirby Squeak Squad - Kirby_76
+    21300154: DS - Kirby Squeak Squad - Kirby_77
+    21300156: DS - Kirby Squeak Squad - Kirby_78
+    21300158: DS - Kirby Squeak Squad - Kirby_79
+    21300160: DS - Kirby Squeak Squad - Kirby_80
+    21300162: DS - Kirby Squeak Squad - Kirby_81
+    21300164: DS - Kirby Squeak Squad - Kirby_82
+    21300166: DS - Kirby Squeak Squad - Kirby_83
+    21300168: DS - Kirby Squeak Squad - Kirby_84
+    21300170: DS - Kirby Squeak Squad - Kirby_85
+    21300172: DS - Kirby Squeak Squad - Kirby_86
+    21300174: DS - Kirby Squeak Squad - Kirby_87
+    21300176: DS - Kirby Squeak Squad - Kirby_88
+    21300178: DS - Kirby Squeak Squad - Kirby_89
+    21300180: DS - Kirby Squeak Squad - Kirby_90
+    21300182: DS - Kirby Squeak Squad - Kirby_91
+    21300184: DS - Kirby Squeak Squad - Kirby_92
+    21300186: DS - Kirby Squeak Squad - Kirby_93
+    21300188: DS - Kirby Squeak Squad - Kirby_94
+    21300190: DS - Kirby Squeak Squad - Kirby_95
+    21300192: DS - Kirby Squeak Squad - Kirby_96
+    21300194: DS - Kirby Squeak Squad - Kirby_97
+    21300196: DS - Kirby Squeak Squad - Kirby_98
+    21300198: DS - Kirby Squeak Squad - Kirby_99
+    21300200: DS - Kirby Squeak Squad - Kirby_100
+    21300202: DS - Kirby Squeak Squad - Kirby_101
+    21300204: DS - Kirby Squeak Squad - Kirby_102
+    21300206: DS - Kirby Squeak Squad - Kirby_103
+    21300208: DS - Kirby Squeak Squad - Kirby_104
+    21300210: DS - Kirby Squeak Squad - Kirby_105
+    21300212: DS - Kirby Squeak Squad - Kirby_106
+    21300214: DS - Kirby Squeak Squad - Kirby_107
+    21300216: DS - Kirby Squeak Squad - Kirby_108
+    21300218: DS - Kirby Squeak Squad - Kirby_109
+    21300220: DS - Kirby Squeak Squad - Kirby_110
+    21300222: DS - Kirby Squeak Squad - Kirby_111
+    21300224: DS - Kirby Squeak Squad - Kirby_112
+    21300226: DS - Kirby Squeak Squad - Kirby_113
+    21300228: DS - Kirby Squeak Squad - Kirby_114
+    21300230: DS - Kirby Squeak Squad - Kirby_115
+    21300232: DS - Kirby Squeak Squad - Kirby_116
+    21300234: DS - Kirby Squeak Squad - Kirby_117
+    21300236: DS - Kirby Squeak Squad - Kirby_118
+    21300238: DS - Kirby Squeak Squad - Kirby_119
+    21300240: DS - Kirby Squeak Squad - Kirby_120
+    21300242: DS - Kirby Squeak Squad - Kirby_121
+    21300244: DS - Kirby Squeak Squad - Kirby_122
+    21300246: DS - Kirby Squeak Squad - Kirby_123
+    21300248: DS - Kirby Squeak Squad - Kirby_124
+    21300250: DS - Kirby Squeak Squad - Kirby_125
+    21300252: DS - Kirby Squeak Squad - Kirby_126
+    21300254: DS - Kirby Squeak Squad - Kirby_127
+    21300256: DS - Kirby Squeak Squad - Kirby_128
+    21300258: DS - Kirby Squeak Squad - Kirby_129
+    21300260: DS - Kirby Squeak Squad - Kirby_130
+    21300262: DS - Kirby Squeak Squad - Kirby_131
+    21300264: DS - Kirby Squeak Squad - Kirby_132
+    21300266: DS - Kirby Squeak Squad - Kirby_133
+    21300268: DS - Kirby Squeak Squad - Kirby_134
+    21300270: DS - Kirby Squeak Squad - Kirby_135
+    21300272: DS - Kirby Squeak Squad - Kirby_136
+    21300274: DS - Kirby Squeak Squad - Kirby_137
+    21300276: DS - Kirby Squeak Squad - Kirby_138
+    21300278: DS - Kirby Squeak Squad - Kirby_139
+    21300280: DS - Kirby Squeak Squad - Kirby_140
+    21300282: DS - Kirby Squeak Squad - Kirby_141
+    21300284: DS - Kirby Squeak Squad - Kirby_142
+    21300286: DS - Kirby Squeak Squad - Kirby_143
+    21300288: DS - Kirby Squeak Squad - Kirby_144
+    21300290: DS - Kirby Squeak Squad - Kirby_145
+    21300292: DS - Kirby Squeak Squad - Kirby_146
+    21300294: DS - Kirby Squeak Squad - Kirby_147
+    21300296: DS - Kirby Squeak Squad - Kirby_148
+    21300298: DS - Kirby Squeak Squad - Kirby_149
+    21300300: DS - Kirby Squeak Squad - Kirby_150
+    21300302: DS - Kirby Squeak Squad - Kirby_151
+    21300304: DS - Kirby Squeak Squad - Kirby_152
+    21300306: DS - Kirby Squeak Squad - Kirby_153
+    21300308: DS - Kirby Squeak Squad - Kirby_154
+    21300310: DS - Kirby Squeak Squad - Kirby_155
+    21300312: DS - Kirby Squeak Squad - Kirby_156
+    21300314: DS - Kirby Squeak Squad - Kirby_157
+    21300316: DS - Kirby Squeak Squad - Kirby_158
+    21300318: DS - Kirby Squeak Squad - Kirby_159
+    21300320: DS - Kirby Squeak Squad - Kirby_160
+    21300322: DS - Kirby Squeak Squad - Kirby_161
+    21300324: DS - Kirby Squeak Squad - Kirby_162
+    21300326: DS - Kirby Squeak Squad - Kirby_163
+    21300328: DS - Kirby Squeak Squad - Kirby_164
+    21300330: DS - Kirby Squeak Squad - Kirby_165
+    21300332: DS - Kirby Squeak Squad - Kirby_166
+    21300334: DS - Kirby Squeak Squad - Kirby_167
+    21300336: DS - Kirby Squeak Squad - Kirby_168
+    21300338: DS - Kirby Squeak Squad - Kirby_169
+    21300340: DS - Kirby Squeak Squad - Kirby_170
+    21300342: DS - Kirby Squeak Squad - Kirby_171
+    21300344: DS - Kirby Squeak Squad - Kirby_172
+    21300346: DS - Kirby Squeak Squad - Kirby_173
+    21300348: DS - Kirby Squeak Squad - Kirby_174
+    21300350: DS - Kirby Squeak Squad - Kirby_175
+    21300352: DS - Kirby Squeak Squad - Kirby_176
+    21300354: DS - Kirby Squeak Squad - Kirby_177
+    21300356: DS - Kirby Squeak Squad - Kirby_178
+    21300358: DS - Kirby Squeak Squad - Kirby_179
+    21300360: DS - Kirby Squeak Squad - Kirby_180
+    21300362: DS - Kirby Squeak Squad - Kirby_181
+    21300364: DS - Kirby Squeak Squad - Kirby_182
+    21300366: DS - Kirby Squeak Squad - Kirby_183
+    21300368: DS - Kirby Squeak Squad - Kirby_184
+    21300370: DS - Kirby Squeak Squad - Kirby_185
+    21300372: DS - Kirby Squeak Squad - Kirby_186
+    21300374: DS - Kirby Squeak Squad - Kirby_187
+    21300376: DS - Kirby Squeak Squad - Kirby_188
+    21300378: DS - Kirby Squeak Squad - Kirby_189
+    21300380: DS - Kirby Squeak Squad - Kirby_190
+    21300382: DS - Kirby Squeak Squad - Kirby_191
+    21300384: DS - Kirby Squeak Squad - Kirby_192
+    21300386: DS - Kirby Squeak Squad - Kirby_193
+    21300388: DS - Kirby Squeak Squad - Kirby_194
+    21300390: DS - Kirby Squeak Squad - Kirby_195
+    21300392: DS - Kirby Squeak Squad - Kirby_196
+    21300394: DS - Kirby Squeak Squad - Kirby_197
+    21300396: DS - Kirby Squeak Squad - Kirby_198
+    21300398: DS - Kirby Squeak Squad - Kirby_199
+    21300400: DS - Kirby Squeak Squad - Kirby_200
+    21300402: DS - Kirby Squeak Squad - Kirby_201
+    21300404: DS - Kirby Squeak Squad - Kirby_202
+    21300406: DS - Kirby Squeak Squad - Kirby_203
+    21300408: DS - Kirby Squeak Squad - Kirby_204
+    21300410: DS - Kirby Squeak Squad - Kirby_205
+    21300412: DS - Kirby Squeak Squad - Kirby_206
+    21300414: DS - Kirby Squeak Squad - Kirby_207
+    21300416: DS - Kirby Squeak Squad - Kirby_208
+    21300418: DS - Kirby Squeak Squad - Kirby_209
+    21300420: DS - Kirby Squeak Squad - Kirby_210
+    21300422: DS - Kirby Squeak Squad - Kirby_211
+    21300424: DS - Kirby Squeak Squad - Kirby_212
+    21300426: DS - Kirby Squeak Squad - Kirby_213
+    21300428: DS - Kirby Squeak Squad - Kirby_214
+    21300430: DS - Kirby Squeak Squad - Kirby_215
+    21300432: DS - Kirby Squeak Squad - Kirby_216
+    21300434: DS - Kirby Squeak Squad - Kirby_217
+    21300436: DS - Kirby Squeak Squad - Kirby_218
+    21300438: DS - Kirby Squeak Squad - Kirby_219
+    21300440: DS - Kirby Squeak Squad - Kirby_220
+    21300442: DS - Kirby Squeak Squad - Kirby_221
+    21300444: DS - Kirby Squeak Squad - Kirby_222
+    21300446: DS - Kirby Squeak Squad - Kirby_223
+    21300448: DS - Kirby Squeak Squad - Kirby_224
+    21300450: DS - Kirby Squeak Squad - Kirby_225
+    21300452: DS - Kirby Squeak Squad - Kirby_226
+    21300454: DS - Kirby Squeak Squad - Kirby_227
+    21300456: DS - Kirby Squeak Squad - Kirby_228
+    21300458: DS - Kirby Squeak Squad - Kirby_229
+    21300460: DS - Kirby Squeak Squad - Kirby_230
+    21300462: DS - Kirby Squeak Squad - Kirby_231
+    21300464: DS - Kirby Squeak Squad - Kirby_232
+    21300466: DS - Kirby Squeak Squad - Kirby_233
+    21300468: DS - Kirby Squeak Squad - Kirby_234
+    21300470: DS - Kirby Squeak Squad - Kirby_235
+    21300472: DS - Kirby Squeak Squad - Kirby_236
+    21300474: DS - Kirby Squeak Squad - Kirby_237
+    21300476: DS - Kirby Squeak Squad - Kirby_238
+    21300478: DS - Kirby Squeak Squad - Kirby_239
+    21300480: DS - Kirby Squeak Squad - Kirby_240
+    21300482: DS - Kirby Squeak Squad - Kirby_241
+    21300484: DS - Kirby Squeak Squad - Kirby_242
+    21300486: DS - Kirby Squeak Squad - Kirby_243
+    21300488: DS - Kirby Squeak Squad - Kirby_244
+    21300490: DS - Kirby Squeak Squad - Kirby_245
+    21300492: DS - Kirby Squeak Squad - Kirby_246
+    21300494: DS - Kirby Squeak Squad - Kirby_247
+    21300496: DS - Kirby Squeak Squad - Kirby_248
+    21300498: DS - Kirby Squeak Squad - Kirby_249
+    21300500: DS - Kirby Squeak Squad - Kirby_250
+    21300502: DS - Kirby Squeak Squad - Kirby_251
+    21300504: DS - Kirby Squeak Squad - Kirby_252
+    21300506: DS - Kirby Squeak Squad - Kirby_253
+    21300508: DS - Kirby Squeak Squad - Kirby_254
+    21300510: DS - Kirby Squeak Squad - Kirby_255
+    21300512: DS - Kirby Squeak Squad - Kirby_256
+    21300514: DS - Kirby Squeak Squad - Kirby_257
+    21300516: DS - Kirby Squeak Squad - Kirby_258
+    21300518: DS - Kirby Squeak Squad - Kirby_259
+    21300520: DS - Kirby Squeak Squad - Kirby_260
+    21300522: DS - Kirby Squeak Squad - Kirby_261
+    21300524: DS - Kirby Squeak Squad - Kirby_262
+    21300526: DS - Kirby Squeak Squad - Kirby_263
+    21300528: DS - Kirby Squeak Squad - Kirby_264
+    21300530: DS - Kirby Squeak Squad - Kirby_265
+    21300532: DS - Kirby Squeak Squad - Kirby_266
+    21300534: DS - Kirby Squeak Squad - Kirby_267
+    21300536: DS - Kirby Squeak Squad - Kirby_268
+    21300538: DS - Kirby Squeak Squad - Kirby_269
+    21300540: DS - Kirby Squeak Squad - Kirby_270
+    21300542: DS - Kirby Squeak Squad - Kirby_271
+    21300544: DS - Kirby Squeak Squad - Kirby_272
+    21300546: DS - Kirby Squeak Squad - Kirby_273
+    21300548: DS - Kirby Squeak Squad - Kirby_274
+    21300550: DS - Kirby Squeak Squad - Kirby_275
+    21300552: DS - Kirby Squeak Squad - Kirby_276
+    21300554: DS - Kirby Squeak Squad - Kirby_277
+    21300556: DS - Kirby Squeak Squad - Kirby_278
+    21300558: DS - Kirby Squeak Squad - Kirby_279
+    21300560: DS - Kirby Squeak Squad - Kirby_280
+    21300562: DS - Kirby Squeak Squad - Kirby_281
+    21300564: DS - Kirby Squeak Squad - Kirby_282
+    21300566: DS - Kirby Squeak Squad - Kirby_283
+    21300568: DS - Kirby Squeak Squad - Kirby_284
+    21300570: DS - Kirby Squeak Squad - Kirby_285
+    21300572: DS - Kirby Squeak Squad - Kirby_286
+    21300574: DS - Kirby Squeak Squad - Kirby_287
+    21300576: DS - Kirby Squeak Squad - Kirby_288
+    21300578: DS - Kirby Squeak Squad - Kirby_289
+    21300580: DS - Kirby Squeak Squad - Kirby_290
+    21300582: DS - Kirby Squeak Squad - Kirby_291
+    21300584: DS - Kirby Squeak Squad - Kirby_292
+    21300586: DS - Kirby Squeak Squad - Kirby_293
+    21300588: DS - Kirby Squeak Squad - Kirby_294
+    21300590: DS - Kirby Squeak Squad - Kirby_295
+    21300592: DS - Kirby Squeak Squad - Kirby_296
+    21300594: DS - Kirby Squeak Squad - Kirby_297
+    21300596: DS - Kirby Squeak Squad - Kirby_298
+    21300598: DS - Kirby Squeak Squad - Kirby_299
+    21300600: DS - Kirby Squeak Squad - Kirby_300
+    21300602: DS - Kirby Squeak Squad - Kirby_301
+    21300604: DS - Kirby Squeak Squad - Kirby_302
+    21300606: DS - Kirby Squeak Squad - Kirby_303
+    21300608: DS - Kirby Squeak Squad - Kirby_304
+    21300610: DS - Kirby Squeak Squad - Kirby_305
+    21300612: DS - Kirby Squeak Squad - Kirby_306
+    21300614: DS - Kirby Squeak Squad - Kirby_307
+    21300616: DS - Kirby Squeak Squad - Kirby_308
+    21300618: DS - Kirby Squeak Squad - Kirby_309
+    21300620: DS - Kirby Squeak Squad - Kirby_310
+    21300622: DS - Kirby Squeak Squad - Kirby_311
+    21300624: DS - Kirby Squeak Squad - Kirby_312
+    21300626: DS - Kirby Squeak Squad - Kirby_313
+    21300628: DS - Kirby Squeak Squad - Kirby_314
+    21300630: DS - Kirby Squeak Squad - Kirby_315
+    21300632: DS - Kirby Squeak Squad - Kirby_316
+    21300634: DS - Kirby Squeak Squad - Kirby_317
+    21300636: DS - Kirby Squeak Squad - Kirby_318
+    21300638: DS - Kirby Squeak Squad - Kirby_319
+    21300640: DS - Kirby Squeak Squad - Kirby_320
+    21300642: DS - Kirby Squeak Squad - Kirby_321
+    21300644: DS - Kirby Squeak Squad - Kirby_322
+    21300646: DS - Kirby Squeak Squad - Kirby_323
+    21300648: DS - Kirby Squeak Squad - Kirby_324
+    21300650: DS - Kirby Squeak Squad - Kirby_325
+    21300652: DS - Kirby Squeak Squad - Kirby_326
+    21300654: DS - Kirby Squeak Squad - Kirby_327
+    21300656: DS - Kirby Squeak Squad - Kirby_328
+    21300658: DS - Kirby Squeak Squad - Kirby_329
+    21300660: DS - Kirby Squeak Squad - Kirby_330
+    21300662: DS - Kirby Squeak Squad - Kirby_331
+    21300664: DS - Kirby Squeak Squad - Kirby_332
+    21300666: DS - Kirby Squeak Squad - Kirby_333
+    21300668: DS - Kirby Squeak Squad - Kirby_334
+    21300670: DS - Kirby Squeak Squad - Kirby_335
+    21300672: DS - Kirby Squeak Squad - Kirby_336
+    21300674: DS - Kirby Squeak Squad - Kirby_337
+    21300676: DS - Kirby Squeak Squad - Kirby_338
+    21300678: DS - Kirby Squeak Squad - Kirby_339
+    21300680: DS - Kirby Squeak Squad - Kirby_340
+    21300682: DS - Kirby Squeak Squad - Kirby_341
+    21300684: DS - Kirby Squeak Squad - Kirby_342
+    21300686: DS - Kirby Squeak Squad - Kirby_343
+    21300688: DS - Kirby Squeak Squad - Kirby_344
+    21300690: DS - Kirby Squeak Squad - Kirby_345
+    21300692: DS - Kirby Squeak Squad - Kirby_346
+    21300694: DS - Kirby Squeak Squad - Kirby_347
+    21300696: DS - Kirby Squeak Squad - Kirby_348
+    21300698: DS - Kirby Squeak Squad - Kirby_349
+    21300700: DS - Kirby Squeak Squad - Kirby_350
+    21300702: DS - Kirby Squeak Squad - Kirby_351
+    21300704: DS - Kirby Squeak Squad - Kirby_352
+    21300706: DS - Kirby Squeak Squad - Kirby_353
+    21300708: DS - Kirby Squeak Squad - Kirby_354
+    21300710: DS - Kirby Squeak Squad - Kirby_355
+    21300712: DS - Kirby Squeak Squad - Kirby_356
+    21300714: DS - Kirby Squeak Squad - Kirby_357
+    21300716: DS - Kirby Squeak Squad - Kirby_358
+    21300718: DS - Kirby Squeak Squad - Kirby_359
+    21300720: DS - Kirby Squeak Squad - Kirby_360
+    21300722: DS - Kirby Squeak Squad - Kirby_361
+    21300724: DS - Kirby Squeak Squad - Kirby_362
+    21300726: DS - Kirby Squeak Squad - Kirby_363
+    21300728: DS - Kirby Squeak Squad - Kirby_364
+    21300730: DS - Kirby Squeak Squad - Kirby_365
+    21300732: DS - Kirby Squeak Squad - Kirby_366
+    21300734: DS - Kirby Squeak Squad - Kirby_367
+    21300736: DS - Kirby Squeak Squad - Kirby_368
+    21300738: DS - Kirby Squeak Squad - Kirby_369
+    21300740: DS - Kirby Squeak Squad - Kirby_370
+    21300742: DS - Kirby Squeak Squad - Kirby_371
+    21300744: DS - Kirby Squeak Squad - Kirby_372
+    21300746: DS - Kirby Squeak Squad - Kirby_373
+    21300748: DS - Kirby Squeak Squad - Kirby_374
+    21300750: DS - Kirby Squeak Squad - Kirby_375
+    21300752: DS - Kirby Squeak Squad - Kirby_376
+    21300754: DS - Kirby Squeak Squad - Kirby_377
+    21300756: DS - Kirby Squeak Squad - Kirby_378
+    21300758: DS - Kirby Squeak Squad - Kirby_379
+    21300760: DS - Kirby Squeak Squad - Kirby_380
+    21300762: DS - Kirby Squeak Squad - Kirby_381
+    21300764: DS - Kirby Squeak Squad - Kirby_382
+    21300766: DS - Kirby Squeak Squad - Kirby_383
+    21300768: DS - Kirby Squeak Squad - Kirby_384
+    21300770: DS - Kirby Squeak Squad - Kirby_385
+    21300772: DS - Kirby Squeak Squad - Kirby_386
+    21300774: DS - Kirby Squeak Squad - Kirby_387
+    21300776: DS - Kirby Squeak Squad - Kirby_388
+    21300778: DS - Kirby Squeak Squad - Kirby_389
+    21300780: DS - Kirby Squeak Squad - Kirby_390
+    21300782: DS - Kirby Squeak Squad - Kirby_391
+    21300784: DS - Kirby Squeak Squad - Kirby_392
+    21300786: DS - Kirby Squeak Squad - Kirby_393
+    21300788: DS - Kirby Squeak Squad - Kirby_394
+    21300790: DS - Kirby Squeak Squad - Kirby_395
+    21300792: DS - Kirby Squeak Squad - Kirby_396
+    21300794: DS - Kirby Squeak Squad - Kirby_397
+    21300796: DS - Kirby Squeak Squad - Kirby_398
+    21300798: DS - Kirby Squeak Squad - Kirby_399
+    21300800: DS - Kirby Squeak Squad - Kirby_400
+    21300802: DS - Kirby Squeak Squad - Kirby_401
+    21300804: DS - Kirby Squeak Squad - Kirby_402
+    21300806: DS - Kirby Squeak Squad - Kirby_403
+    21300808: DS - Kirby Squeak Squad - Kirby_404
+    21300810: DS - Kirby Squeak Squad - Kirby_405
+    21300812: DS - Kirby Squeak Squad - Kirby_406
+    21300814: DS - Kirby Squeak Squad - Kirby_407
+    21300816: DS - Kirby Squeak Squad - Kirby_408
+    21300818: DS - Kirby Squeak Squad - Kirby_409
+    21300820: DS - Kirby Squeak Squad - Kirby_410
+    21300822: DS - Kirby Squeak Squad - Kirby_411
+    21300824: DS - Kirby Squeak Squad - Kirby_412
+    21300826: DS - Kirby Squeak Squad - Kirby_413
+    21300828: DS - Kirby Squeak Squad - Kirby_414
+    21300830: DS - Kirby Squeak Squad - Kirby_415
+    21300832: DS - Kirby Squeak Squad - Kirby_416
+    21300834: DS - Kirby Squeak Squad - Kirby_417
+    21300836: DS - Kirby Squeak Squad - Kirby_418
+    21300838: DS - Kirby Squeak Squad - Kirby_419
+    21300840: DS - Kirby Squeak Squad - Kirby_420
+    21300842: DS - Kirby Squeak Squad - Kirby_421
+    21300844: DS - Kirby Squeak Squad - Kirby_422
+    21300846: DS - Kirby Squeak Squad - Kirby_423
+    21300848: DS - Kirby Squeak Squad - Kirby_424
+    21300850: DS - Kirby Squeak Squad - Kirby_425
+    21300852: DS - Kirby Squeak Squad - Kirby_426
+    21300854: DS - Kirby Squeak Squad - Kirby_427
+    21300856: DS - Kirby Squeak Squad - Kirby_428
+    21300858: DS - Kirby Squeak Squad - Kirby_429
+    21300860: DS - Kirby Squeak Squad - Kirby_430
+    21300862: DS - Kirby Squeak Squad - Kirby_431
+    21300864: DS - Kirby Squeak Squad - Kirby_432
+    21300866: DS - Kirby Squeak Squad - Kirby_433
+    21300868: DS - Kirby Squeak Squad - Kirby_434
+    21300870: DS - Kirby Squeak Squad - Kirby_435
+    21300872: DS - Kirby Squeak Squad - Kirby_436
+    21300874: DS - Kirby Squeak Squad - Kirby_437
+    21300876: DS - Kirby Squeak Squad - Kirby_438
+    21300878: DS - Kirby Squeak Squad - Kirby_439
+    21300880: DS - Kirby Squeak Squad - Kirby_440
+    21300882: DS - Kirby Squeak Squad - Kirby_441
+    21300884: DS - Kirby Squeak Squad - Kirby_442
+    21300886: DS - Kirby Squeak Squad - Kirby_443
+    21300888: DS - Kirby Squeak Squad - Kirby_444
+    21300890: DS - Kirby Squeak Squad - Kirby_445
+    21300892: DS - Kirby Squeak Squad - Kirby_446
+    21300894: DS - Kirby Squeak Squad - Kirby_447
+    21300896: DS - Kirby Squeak Squad - Kirby_448
+    21300898: DS - Kirby Squeak Squad - Kirby_449
+    21300900: DS - Kirby Squeak Squad - Kirby_450
+    21300902: DS - Kirby Squeak Squad - Kirby_451
+    21300904: DS - Kirby Squeak Squad - Kirby_452
+    21300906: DS - Kirby Squeak Squad - Kirby_453
+    21300908: DS - Kirby Squeak Squad - Kirby_454
+    21300910: DS - Kirby Squeak Squad - Kirby_455
+    21300912: DS - Kirby Squeak Squad - Kirby_456
+    21300914: DS - Kirby Squeak Squad - Kirby_457
+    21300916: DS - Kirby Squeak Squad - Kirby_458
+    21300918: DS - Kirby Squeak Squad - Kirby_459
+    21300920: DS - Kirby Squeak Squad - Kirby_460
+    21300922: DS - Kirby Squeak Squad - Kirby_461
+    21300924: DS - Kirby Squeak Squad - Kirby_462
+    21300926: DS - Kirby Squeak Squad - Kirby_463
+    21300928: DS - Kirby Squeak Squad - Kirby_464
+    21300930: DS - Kirby Squeak Squad - Kirby_465
+    21300932: DS - Kirby Squeak Squad - Kirby_466
+    21300934: DS - Kirby Squeak Squad - Kirby_467
+    21300936: DS - Kirby Squeak Squad - Kirby_468
+    21300938: DS - Kirby Squeak Squad - Kirby_469
+    21300940: DS - Kirby Squeak Squad - Kirby_470
+    21300942: DS - Kirby Squeak Squad - Kirby_471
+    21300944: DS - Kirby Squeak Squad - Kirby_472
+    21300946: DS - Kirby Squeak Squad - Kirby_473
+    21300948: DS - Kirby Squeak Squad - Kirby_474
+    21300950: DS - Kirby Squeak Squad - Kirby_475
+    21300952: DS - Kirby Squeak Squad - Kirby_476
+    21300954: DS - Kirby Squeak Squad - Kirby_477
+    21300956: DS - Kirby Squeak Squad - Kirby_478
+    21300958: DS - Kirby Squeak Squad - Kirby_479
+    21300960: DS - Kirby Squeak Squad - Kirby_480
+    21300962: DS - Kirby Squeak Squad - Kirby_481
+    21300964: DS - Kirby Squeak Squad - Kirby_482
+    21300966: DS - Kirby Squeak Squad - Kirby_483
+    21300968: DS - Kirby Squeak Squad - Kirby_484
+    21300970: DS - Kirby Squeak Squad - Kirby_485
+    21300972: DS - Kirby Squeak Squad - Kirby_486
+    21300974: DS - Kirby Squeak Squad - Kirby_487
+    21300976: DS - Kirby Squeak Squad - Kirby_488
+    21300978: DS - Kirby Squeak Squad - Kirby_489
+    21300980: DS - Kirby Squeak Squad - Kirby_490
+    21300982: DS - Kirby Squeak Squad - Kirby_491
+    21300984: DS - Kirby Squeak Squad - Kirby_492
+    21300986: DS - Kirby Squeak Squad - Kirby_493
+    21300988: DS - Kirby Squeak Squad - Kirby_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Idle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 486
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Down
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 486
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 486
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 486
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 486
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 486
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 486
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 486
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 486
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 486
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 486
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 486
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 486
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 486
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 486
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 486
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 486
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk_8
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 486
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 486
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: walk_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 486
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_20
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 486
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 486
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_22
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 486
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 486
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_24
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 486
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_25
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 486
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_26
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 486
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_27
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 486
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_28
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 486
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_29
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 486
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_30
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 486
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_31
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 486
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_32
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 486
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_33
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 486
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_34
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 486
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_35
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 486
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_36
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 486
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_37
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 486
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_38
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 486
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_39
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 486
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_40
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 486
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_41
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 486
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_42
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 486
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 454
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_44
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 454
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 454
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 454
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 454
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 454
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 454
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_50
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 454
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 454
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_52
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 454
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 454
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 454
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 454
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_56
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 454
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_57
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 454
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_58
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 454
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_59
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 454
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_60
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 454
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_61
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 454
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_62
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 454
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_63
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 454
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_64
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 454
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_65
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 454
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_66
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 454
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_67
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 454
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_68
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 454
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_69
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 454
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_70
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 454
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_71
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 454
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_72
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 454
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_73
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 454
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_74
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 454
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_75
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 454
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_76
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 454
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_77
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 454
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_78
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 454
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_79
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 454
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_80
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 454
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_81
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 454
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_82
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 454
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_83
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 454
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_84
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 454
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 425
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_86
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 425
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_87
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 425
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 425
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_89
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 425
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_90
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 425
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_91
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 425
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_92
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 425
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 425
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_94
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 425
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_95
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 425
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_96
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 425
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_97
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 425
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_98
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 425
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_99
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 425
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_100
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 425
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_101
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 425
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 425
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_103
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 425
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_104
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 425
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_105
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 425
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_106
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 425
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_107
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 425
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_108
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 425
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_109
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 425
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_110
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 425
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_111
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 425
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_112
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 425
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_113
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 425
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_114
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 425
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_115
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 425
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_116
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 425
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_117
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 425
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_118
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 425
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_119
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 425
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_120
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 425
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_121
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 425
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_122
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 425
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_123
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 425
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_124
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 425
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_125
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 425
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_126
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 420
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 13}
+        - {x: -16, y: -13}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+    - name: DS - Kirby Squeak Squad - Kirby_127
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 388
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_128
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 9}
+        - {x: 6, y: 16}
+    - name: DS - Kirby Squeak Squad - Kirby_129
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 388
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_130
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 388
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_131
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 388
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_132
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 388
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_133
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 388
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_134
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 388
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_135
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 388
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_136
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 11}
+        - {x: 8, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -15}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -15}
+        - {x: 16, y: -13}
+    - name: DS - Kirby Squeak Squad - Kirby_137
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 388
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16}
+        - {x: -16.5, y: -9}
+        - {x: -14.5, y: -16}
+        - {x: 12.5, y: -16}
+        - {x: 13.5, y: -15}
+        - {x: 14.5, y: -13}
+        - {x: 14.5, y: 12}
+        - {x: 5.5, y: 16}
+      - - {x: 13.5, y: 16}
+        - {x: 12.5, y: 13}
+        - {x: 12.5, y: 8}
+        - {x: 15.5, y: 6}
+        - {x: 16.5, y: 6}
+        - {x: 16.5, y: 15}
+        - {x: 15.5, y: 16}
+    - name: DS - Kirby Squeak Squad - Kirby_138
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 388
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_139
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -14}
+        - {x: 16, y: -11}
+        - {x: 16, y: 12}
+    - name: DS - Kirby Squeak Squad - Kirby_140
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 388
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_141
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 388
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_142
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 388
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_143
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 388
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_144
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 388
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_145
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 388
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_146
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 388
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_147
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 388
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_148
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 388
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_149
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 388
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_150
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 388
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_151
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 388
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_152
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 388
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_153
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 388
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_154
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 388
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_155
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 388
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_156
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 388
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_157
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 388
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_158
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 388
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_159
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 388
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_160
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 388
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_161
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 388
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_162
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 388
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_163
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 350
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_164
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 350
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_165
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 350
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_166
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_167
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 350
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_168
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 350
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_169
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 350
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_170
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 350
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_171
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 350
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_172
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 350
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_173
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 350
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_174
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 350
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_175
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 350
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_176
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 350
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_177
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 350
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_178
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 350
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_179
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 350
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_180
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 350
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_181
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 350
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_182
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 350
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_183
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_184
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 350
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_185
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 350
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_186
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_187
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 350
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 350
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_189
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 350
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_190
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 349
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_191
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 349
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_192
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 349
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_193
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 16}
+        - {x: -14, y: 14}
+        - {x: -16, y: 10}
+        - {x: -16, y: -12}
+        - {x: -11, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: DS - Kirby Squeak Squad - Kirby_194
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 350
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_195
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 350
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_196
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 350
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_197
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 314
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_198
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 314
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_199
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 314
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_200
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 314
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_201
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 314
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_202
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 314
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_203
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 314
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_204
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 314
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_205
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 314
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_206
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 314
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_207
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 314
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_208
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 314
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_209
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 314
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_210
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 314
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_211
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 314
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_212
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 314
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_213
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 314
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_214
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 314
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_215
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 314
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_216
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 314
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_217
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 314
+        width: 40
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_218
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 314
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_219
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 314
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_220
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 314
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_221
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 314
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_222
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 314
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_223
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 314
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_224
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 314
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_225
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 314
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_226
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 314
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_227
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 314
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_228
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 314
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_229
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 314
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_230
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 314
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_231
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 314
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_232
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 314
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_233
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 314
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_234
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 314
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_235
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 314
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_236
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 275
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_237
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 275
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_238
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 275
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_239
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 275
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_240
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 275
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_241
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_242
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 275
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_243
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 275
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_244
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 275
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_245
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 275
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_246
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 275
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_247
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 275
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_248
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_249
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_250
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 275
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_251
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 275
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_252
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 275
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_253
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 275
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_254
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 275
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_255
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 275
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_256
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 275
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_257
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 275
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_258
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 275
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_259
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 275
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_260
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 275
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_261
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 275
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_262
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 275
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_263
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 275
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_264
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 275
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_265
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 275
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_266
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 275
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_267
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 275
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_268
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 275
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_269
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 275
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_270
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 275
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_271
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 275
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_272
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 275
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_273
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 275
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_274
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 244
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_275
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 244
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_276
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 244
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_277
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 244
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_278
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 244
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_279
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 244
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_280
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 244
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_281
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 244
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_282
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 244
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_283
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 244
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_284
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 244
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_285
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 244
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_286
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 244
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_287
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 244
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_288
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 244
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_289
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 244
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_290
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 244
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_291
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 244
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_292
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 244
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_293
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 244
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_294
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 244
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_295
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 244
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_296
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 244
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_297
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 244
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_298
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 244
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_299
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 244
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_300
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 244
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_301
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 244
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_302
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 244
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_303
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 244
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_304
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 244
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_305
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 244
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_306
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 244
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_307
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 244
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_308
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 244
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_309
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 244
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_310
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 244
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_311
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 244
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_312
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 244
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_313
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 244
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_314
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 244
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_315
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 244
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_316
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 244
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_317
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 213
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_318
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 213
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_319
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 213
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_320
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 213
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_321
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 213
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_322
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 213
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_323
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 213
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_324
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 213
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_325
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 213
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_326
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 213
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_327
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 213
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_328
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 213
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_329
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 213
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_330
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 213
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_331
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 213
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_332
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 213
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_333
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 213
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_334
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 213
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_335
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 213
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_336
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 213
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_337
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 213
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_338
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 213
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_339
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 213
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_340
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 213
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_341
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 213
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_342
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 213
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_343
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 213
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_344
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 213
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_345
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 213
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_346
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 213
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_347
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 213
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_348
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 213
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_349
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 213
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_350
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 213
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_351
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 213
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_352
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 213
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_353
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 213
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_354
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 213
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_355
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 213
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_356
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 213
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_357
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 213
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_358
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 185
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_359
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 185
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_360
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 185
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_361
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 185
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_362
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 185
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_363
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 185
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_364
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 185
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_365
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 149
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_366
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 149
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_367
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_368
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 149
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_369
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 149
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_370
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 149
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_371
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 149
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_372
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 149
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_373
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_374
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_375
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 149
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_376
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_377
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_378
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 149
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_379
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_380
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_381
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_382
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 124
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_383
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 124
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_384
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 124
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_385
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 124
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_386
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_387
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_388
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 124
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_389
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 124
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_390
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 124
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_391
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 124
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_392
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 124
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_393
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 124
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_394
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_395
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 124
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_396
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 124
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_397
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 124
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_398
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 124
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_399
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_400
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 124
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_401
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 124
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_402
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_403
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_404
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 124
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_405
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 124
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_406
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 124
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_407
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 124
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_408
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 124
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_409
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 124
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_410
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_411
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_412
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_413
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_414
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_415
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 124
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_416
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 124
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_417
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 124
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_418
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 124
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_419
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_420
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 124
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_421
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 124
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_422
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 124
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_423
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 124
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_424
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 124
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_425
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_426
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 124
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_427
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 124
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_428
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 124
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_429
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 124
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_430
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 124
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_431
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 124
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_432
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 124
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_433
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 124
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_434
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 124
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_435
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 124
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_436
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_437
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_438
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_439
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_440
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 124
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_441
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 124
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_442
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_443
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 98
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_444
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 98
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_445
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 98
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_446
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 98
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_447
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 98
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_448
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 98
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_449
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 98
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_450
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 98
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_451
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 98
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_452
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_453
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_454
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_455
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_456
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 98
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_457
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_458
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 98
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_459
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 98
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_460
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 98
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_461
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 98
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_462
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 98
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_463
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 98
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_464
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_465
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_466
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 98
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_467
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_468
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 98
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_469
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 98
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_470
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 98
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_471
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 98
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_472
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 98
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_473
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 98
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_474
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 98
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_475
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 98
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_476
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 98
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_477
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 98
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_478
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 98
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_479
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 98
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_480
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 98
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_481
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 67
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_482
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_483
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 67
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_484
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_485
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 67
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_486
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 67
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_487
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 67
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_488
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_489
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 67
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_490
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 67
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_491
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 67
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_492
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 67
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: DS - Kirby Squeak Squad - Kirby_493
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 14
+        width: 244
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116, y: 35.5}
+        - {x: -122, y: 33.5}
+        - {x: -122, y: -30.5}
+        - {x: -118, y: -33.5}
+        - {x: -115, y: -35.5}
+        - {x: 115, y: -35.5}
+        - {x: 122, y: -32.5}
+        - {x: 122, y: 35.5}
+    - name: DS - Kirby Squeak Squad - Kirby_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 388
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    outline: []
+  spritePackingTag: kirby_photo
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
